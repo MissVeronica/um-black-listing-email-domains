@@ -11,7 +11,9 @@ In addtion to UM blocking options this plugin will add:
 2. Subdomain blocking: *.somedomain.com
 
 Subdomain blocking will allow registration for @somedomain.com but block @subdomain.somedomain.com
-
+## Error messages
+1. We do not accept registrations from this top level email domain.
+2. We do not accept registrations from this email subdomain.
 
 ## Installation
 Install by downloading the ZIP file and install as a new Plugin, which you upload in WordPress -> Plugins -> Add New -> Upload Plugin.
