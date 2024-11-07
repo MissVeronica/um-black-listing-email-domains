@@ -28,6 +28,6 @@ Extension to Ultimate Member for additional blocking possibilities like subdomai
 2. Version 3.0.0 Addition of online update of disposable email domains
 
 ## Installation & Updates
-1. Install or update by downloading the ZIP file via the green button.
+1. Install or update by downloading the ZIP file via the green Code button.
 2. Install as a new Plugin, which you upload in WordPress -> Plugins -> Add New -> Upload Plugin.
 3. Activate the Plugin: Ultimate Member - Black listing email domains
