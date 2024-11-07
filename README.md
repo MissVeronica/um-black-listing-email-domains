@@ -1,26 +1,20 @@
 # UM black listing email domains
-Extension to Ultimate Member for additional blocking possibilities like subdomains and top level domains and disposable email domains.
+Extension to Ultimate Member for additional blocking possibilities like subdomains and top level domains and online updates of disposable email domains.
 
-## Updates
-Version 2.0.0 addition of disposable email domains
-
-## Settings 
-UM Settings -> Access -> Other -> Blocked Email Addresses (Enter one email per line)
-
-In addtion to UM blocking options this plugin will add:
-
-1. Top level blocking: *.xyz
-2. Subdomain blocking: *.somedomain.com
-
-Subdomain blocking will allow registration for @somedomain.com but block @subdomain.somedomain.com
+## Settings -> Access -> Other -> Blocked Email Addresses (Enter one email per line)
+1. UM blocking formats: <code>user@block.com</code> <code>*@block.com</code> 
+2. In addtion to UM blocking options this plugin will support:
+3. Top level blocking: <code>*.xyz</code>
+4. Subdomain blocking: <code>*.somedomain.com</code>
+5. Subdomain blocking will allow registration for <code>@somedomain.com</code> but block <code>@subdomain.somedomain.com</code>
 
 ## Disposable email domains
-1. Get a disposable emails list in text format one domain per line from your preferred source.
-2. Example of a public disposable emails list: https://disposable-emails.github.io/
-3. Create a new folder in your UM uploads path .../wp-content/uploads/ultimatemember/disposable_emails
-4. Upload your disposable emails list file to this new folder and use the file name: disposable_emails_list.txt
+1. Removal of the old admin supplied list of disposable email domains from version 3.0.0
+2. Online download of "List of well-known email domains" and "List of known e-mail domains used disposable email services" from GitHub
+3. Source downloads: https://github.com/amieiro/disposable-email-domains
+4. Current sizes of the download files are 919 and 172813 email addresses and updates are generated every quarter of an hour
 
-## Error messages
+## User registration error messages
 1. We do not accept registrations from this top level email domain.
 2. We do not accept registrations from this email subdomain.
 3. We do not accept registrations from this temporary email domain.
@@ -29,7 +23,11 @@ Subdomain blocking will allow registration for @somedomain.com but block @subdom
 1. Use the "Say What?" plugin with text domain ultimate-member
 2. https://wordpress.org/plugins/say-what/
 
-## Installation
-Install by downloading the ZIP file and install as a new Plugin, which you upload in WordPress -> Plugins -> Add New -> Upload Plugin.
+## Updates
+1. Version 2.0.0 Admin user addition of disposable email domains
+2. Version 3.0.0 Addition of online update of disposable email domains
 
-Activate the Plugin: Ultimate Member - Blocked Email Domains
+## Installation & Updates
+1. Install or update by downloading the ZIP file via the green button.
+2. Install as a new Plugin, which you upload in WordPress -> Plugins -> Add New -> Upload Plugin.
+3. Activate the Plugin: Ultimate Member - Blocked Emails and Domains
