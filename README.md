@@ -9,7 +9,7 @@ Extension to Ultimate Member for additional blocking possibilities like subdomai
 5. Subdomain blocking will allow registration for <code>@somedomain.com</code> but block <code>@subdomain.somedomain.com</code>
 
 ## Disposable email domains
-1. Removal of the old admin supplied list of disposable email domains from version 3.0.0
+1. Removal from version 3.0.0 of the old admin supplied list of uploaded disposable email domains
 2. Online download of "List of well-known email domains" and "List of known e-mail domains used disposable email services" from GitHub
 3. Source downloads: https://github.com/amieiro/disposable-email-domains
 4. Current sizes of the download files are 919 and 172813 email addresses and updates are generated every quarter of an hour
