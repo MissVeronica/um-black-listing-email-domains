@@ -12,8 +12,8 @@ Extension to Ultimate Member for additional blocking possibilities like subdomai
 1. Removal from version 3.0.0 of the old admin supplied list of uploaded disposable email domains
 2. Online download of "List of well-known email domains" and "List of known e-mail domains used disposable email services" from GitHub
 3. Source downloads: https://github.com/amieiro/disposable-email-domains
-4. Current sizes of the download files are 919 and 172813 email addresses and updates are generated every quarter of an hour
-5. Examples of disposable email addresses for your testing:  <code>detroitdaily.com</code> <code>michigan-web-design.com</code> <code>topmail.com</code> 
+4. Current sizes of the download files are 919 and 172813 (3,7 MByte) email addresses and updates are generated every quarter of an hour
+5. Examples of disposable email addresses for your testing:  <code>detroitdaily.com</code> <code>michigan-web-design.com</code> <code>topmail.com</code> <code>volvogroup.tk</code>
 
 ## User registration error messages
 1. We do not accept registrations from this top level email domain.
