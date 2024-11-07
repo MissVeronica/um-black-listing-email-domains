@@ -30,4 +30,4 @@ Extension to Ultimate Member for additional blocking possibilities like subdomai
 ## Installation & Updates
 1. Install or update by downloading the ZIP file via the green button.
 2. Install as a new Plugin, which you upload in WordPress -> Plugins -> Add New -> Upload Plugin.
-3. Activate the Plugin: Ultimate Member - Blocked Emails and Domains
+3. Activate the Plugin: Ultimate Member - Black listing email domains
