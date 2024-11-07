@@ -13,6 +13,7 @@ Extension to Ultimate Member for additional blocking possibilities like subdomai
 2. Online download of "List of well-known email domains" and "List of known e-mail domains used disposable email services" from GitHub
 3. Source downloads: https://github.com/amieiro/disposable-email-domains
 4. Current sizes of the download files are 919 and 172813 email addresses and updates are generated every quarter of an hour
+5. Examples of disposable email addresses for your testing:  <code>fastmail.co.uk</code> <code>detroitdaily.com</code> <code>michigan-web-design.com</code>
 
 ## User registration error messages
 1. We do not accept registrations from this top level email domain.
