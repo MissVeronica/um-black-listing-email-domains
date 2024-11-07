@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:     Ultimate Member - Blocked Emails and Domains
- * Description:     Extension to Ultimate Member for additional blocking possibilities like subdomains and top level domains and disposable email domains.
+ * Description:     Extension to Ultimate Member for additional blocking possibilities like subdomains and top level domains and online updates of disposable email domains.
  * Version:         3.0.0
  * Requires PHP:    7.4
  * Author:          Miss Veronica
