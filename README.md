@@ -1,4 +1,4 @@
-# UM black listing email domains
+# UM Black listing email domains
 Extension to Ultimate Member for additional blocking possibilities like subdomains and top level domains and online updates of disposable email domains.
 
 ## Settings -> Access -> Other -> Blocked Email Addresses (Enter one email per line)
