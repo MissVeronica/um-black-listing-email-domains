@@ -1,6 +1,8 @@
 # UM Black listing email domains
 Extension to Ultimate Member for additional blocking possibilities like subdomains and top level domains and online updates of disposable email domains.
 
+https://github.com/MissVeronica/um-black-listing-email-domains/blob/main/development.md
+
 ## UM Settings -> Access -> Other -> Blocked Email Addresses (Enter one email per line)
 1. UM blocking formats: <code>user@block.com</code> <code>*@block.com</code> 
 2. In addtion to UM blocking options this plugin will support:
