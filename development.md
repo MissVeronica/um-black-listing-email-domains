@@ -37,7 +37,6 @@ An option to add custom email domains to the `allowDomains` local caching list w
 to avoid common local addresses to be searched for in the `denyDomains` list.
 #### Future updates
 I am also looking for an option to list these GitHub lists page per page, 
-which is not possible within the UM Settings.
 
 ### Testing examples
 Examples of disposable email addresses in the `denyDomains` list for your testing: 
