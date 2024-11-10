@@ -12,7 +12,7 @@ Default UM single email address blocking like `*@domain.com` or `qwerty@domain.c
 #### Step 1
 The plugin will add the option to exclude top domains also entered in this textarea.
 For example no Registrations with email addresses like `company.xyz` or `abc.xyz` you enter `*.xyz`.
-To exclude a department of a company you enter `*.department.company.com` in the textarea. Always one entry per line.
+To exclude departments of a company you enter `*.company.com` in the textarea. Always one entry per line.
 #### Step 2
 If the email domain is not being disqualified yet by the entries in the textarea 
 the plugin is downloading the 919 `allowDomains` list from GitHub.
