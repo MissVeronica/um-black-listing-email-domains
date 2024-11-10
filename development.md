@@ -27,17 +27,18 @@ which takes max 1 second at my Web hosting company.
 
 If this final test for this `denyDomains` list fails ie not found in the `denyDomains` list the email domain is being accepted.
 ### Development
-#### Next version
-Improvements being worked on today is adding local cache for the GitHub `allowDomains` and `denyDomains` lists where you can specify how many hours to use the downloaded lists until refreshing the caches again from GitHub.
-
+#### Next version 3.1.0
+Local cache for the GitHub `allowDomains` and `denyDomains` lists where you can specify how many hours to use the downloaded lists until refreshing the caches again from GitHub.
+Caching lifetime set to 0 hours will disable caching.
 With the caching implemented, loading time of the largest `denyDomains` list with the size of 3.8 MBytes,
 will be less than 0.05 seconds.
+
+An option to add custom email domains to the `allowDomains` local caching list will also be implemented,
+to avoid common local addresses to be searched for in the `denyDomains` list.
 #### Future updates
 I am also looking for an option to list these GitHub lists page per page, 
 which is not possible within the UM Settings.
 
-An option to add custom email domains to the `allowDomains` local caching list will also be implemented,
-to avoid common local addresses to be searched for in the `denyDomains` list.
 ### Testing examples
 Examples of disposable email addresses in the `denyDomains` list for your testing: 
 `detroitdaily.com` `michigan-web-design.com` `topmail.com` `volvogroup.tk`
