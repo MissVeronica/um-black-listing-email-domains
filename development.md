@@ -39,7 +39,7 @@ An option to add custom email domains to the `denyDomains` local caching list.
 
 Basic HTML formatted pages with "White email domains" (`allowDomains`) and "Blocked email domains" (`denyDomains`) from current caching data
 #### Future updates
-Alignment with current User account's email domains with adding of already registered user email domains to the White list.
+Alignment with current User account's email domains by adding of already registered user email domains to the White list.
 
 ### Testing examples
 Examples of disposable email addresses in the `denyDomains` list for your testing: 
