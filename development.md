@@ -1,5 +1,5 @@
 # UM Black listing email domains
-Current GitHub list content: 919 `allowDomains` and 172 893 `denyDomains`.
+Current GitHub list content: White list 919 `allowDomains` and Black list 172 893 `denyDomains`.
 ## Validation process
 Both email domain lists are downloaded if required from GitHub 
 and used in the plugin for each email domain validation during an User Registration.
