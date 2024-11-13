@@ -1,0 +1,178 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Member - Black listing email domains\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-13 11:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.7\n"
+"X-Domain: black-listing-domains"
+
+#: um-blocked-emails.php:391
+#, php-format
+msgid "%s seconds to download from GitHub. %s"
+msgstr ""
+
+#: um-blocked-emails.php:388
+#, php-format
+msgid "%s seconds to read from local cache dated %s. %s"
+msgstr ""
+
+#: um-blocked-emails.php:394
+#, php-format
+msgid "%s: %d domains and %s"
+msgstr ""
+
+#: um-blocked-emails.php:358
+msgid ""
+"Additional settings by plugin: Top level blocking '*.xyz' and subdomain "
+"blocking '*.company.com'"
+msgstr ""
+
+#: um-blocked-emails.php:342
+msgid "BLACK list: Additional blocked local email domains"
+msgstr ""
+
+#: um-blocked-emails.php:354 um-blocked-emails.php:436
+msgid "Black listing email domains"
+msgstr ""
+
+#: um-blocked-emails.php:143
+msgid "Cache updated"
+msgstr ""
+
+#: um-blocked-emails.php:454
+msgid "Cached email domain lists"
+msgstr ""
+
+#: um-blocked-emails.php:153
+msgid "Delete cache error"
+msgstr ""
+
+#: um-blocked-emails.php:306
+msgid "Download source \"Disposable Email Domains\""
+msgstr ""
+
+#: um-blocked-emails.php:407
+msgid "Email domain list HTML files could not be created."
+msgstr ""
+
+#: um-blocked-emails.php:178
+msgid "Empty cache"
+msgstr ""
+
+#: um-blocked-emails.php:325
+msgid "Enable listing of Plugin current caches"
+msgstr ""
+
+#: um-blocked-emails.php:349
+msgid "Enable UM error message for all blocked domains"
+msgstr ""
+
+#: um-blocked-emails.php:335
+msgid ""
+"Enter allowed local email domains (one per line) to be used together with "
+"the GitHub allowed emails during email validation. The update will be made "
+"at the next cache refresh. Example 'mydomain.com'"
+msgstr ""
+
+#: um-blocked-emails.php:343
+msgid ""
+"Enter blocked local email domains (one per line) to be used together with "
+"the GitHub disposable emails during email validation. The update will be "
+"made at the next cache refresh. Example 'notdomain.com'"
+msgstr ""
+
+#: um-blocked-emails.php:318
+msgid ""
+"Enter the number of hours until refreshing current downloaded GitHub allowed "
+"and disposable email domains. Hours set to 0 disables caching."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Extension to Ultimate Member for additional blocking possibilities like "
+"subdomains and top level domains and online updates of disposable email "
+"domains."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/MissVeronica/um-black-listing-email-domains"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/MissVeronica?tab=repositories"
+msgstr ""
+
+#: um-blocked-emails.php:142
+msgid "Insert cache error"
+msgstr ""
+
+#. Author of the plugin
+msgid "Miss Veronica"
+msgstr ""
+
+#: um-blocked-emails.php:372
+msgid "Number of email domains"
+msgstr ""
+
+#: um-blocked-emails.php:317
+msgid "Number of hours to keep cached email domains"
+msgstr ""
+
+#: um-blocked-emails.php:355
+#, php-format
+msgid "Plugin version %s - tested with UM %s"
+msgstr ""
+
+#: um-blocked-emails.php:326
+msgid ""
+"Tick to create HTML pages with listings of the Plugin's current caches with "
+"allowed and disposable email domains."
+msgstr ""
+
+#: um-blocked-emails.php:350
+msgid ""
+"Tick to use the UM \"blocked_domain\" error message also for all Plugin "
+"invalid email domains."
+msgstr ""
+
+#. Name of the plugin
+msgid "Ultimate Member - Black listing email domains"
+msgstr ""
+
+#: um-blocked-emails.php:272
+msgid "Unable to read from GitHub"
+msgstr ""
+
+#: um-blocked-emails.php:266
+msgid "Unable to read update from GitHub"
+msgstr ""
+
+#: um-blocked-emails.php:455
+msgid "Untick and Save to remove the HTML files"
+msgstr ""
+
+#: um-blocked-emails.php:288
+msgid "We do not accept registrations from this email subdomain."
+msgstr ""
+
+#: um-blocked-emails.php:289
+msgid "We do not accept registrations from this temporary email domain."
+msgstr ""
+
+#: um-blocked-emails.php:287
+msgid "We do not accept registrations from this top level email domain."
+msgstr ""
+
+#: um-blocked-emails.php:334
+msgid "WHITE list: Additional allowed local email domains"
+msgstr ""
